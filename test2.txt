@@ -1,2 +1,3 @@
 his is test2 document
-original sate
+original satire
+the above line was changed after initial commit
